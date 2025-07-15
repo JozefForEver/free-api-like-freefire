@@ -1,4 +1,6 @@
 {
-  "Fast_Q.cs": "c5d4f20b60cbcd7afe83a7851774366e",
-  "Teleport.lua": "098f6bcd4621d373cade4e832627b4f6"
+  "blacklist": [
+    {"hash": "c5d4f20b60cbcd7afe83a7851774366e", "file": "SilentAim.cs"},
+    {"hash": "098f6bcd4621d373cade4e832627b4f6", "file": "Teleport.lua"}
+  ]
 }
