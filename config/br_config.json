@@ -37,6 +37,10 @@
             "hash": "1a15e5ca38fbcbcf97ccaaaa8ec46205"
         },
         {
+            "name": "CAM.cs",
+            "hash": "45d9f55e7be0183aef0628ddd1c8add7"
+        },
+        {
             "name": "Car Speed FPS Fix (Junior_Djjr).cs",
             "hash": "798e370d2273130d2fd5313c98b3f64f"
         },
@@ -61,6 +65,10 @@
             "hash": "b76fbbc37cafd125b9c184557420f97e"
         },
         {
+            "name": "EffectsOff.cs",
+            "hash": "e4a61b00994ed45b13e61f7bf83c4665"
+        },
+        {
             "name": "ExtraWS.cs",
             "hash": "b91660aaa9fb52cb99b7f8027ed38eed"
         },
@@ -83,6 +91,10 @@
         {
             "name": "FileSystemOperations.cleo",
             "hash": "ec7fc1b2d143ce3de49ee800aeb9d2d5"
+        },
+        {
+            "name": "Fix Water Square (Junior_Djjr).cs",
+            "hash": "1d7758dcb1998c218b7c840f287af9cb"
         },
         {
             "name": "FovChanger_by_Adib.lua",
@@ -141,6 +153,18 @@
             "hash": "99fb7c1e1bfe8b3bcc07172599710af1"
         },
         {
+            "name": "GxtHook.cleo",
+            "hash": "264a77733c0c8fbeee97f999bb3fa224"
+        },
+        {
+            "name": "hitmarker.cs",
+            "hash": "f16afb71fa81ea302a6323d3f4c74fab"
+        },
+        {
+            "name": "hudfix.cs",
+            "hash": "17b2d9b50e9e01da375f3ef17df9ebf0"
+        },
+        {
             "name": "IniFiles - Copy.cleo",
             "hash": "e4d4699f22ff9dbb3f1174d4a5aa506f"
         },
@@ -161,6 +185,10 @@
             "hash": "5f4097464a16f228db110cd5463bfd46"
         },
         {
+            "name": "memfix - Copy - Copy.cs",
+            "hash": "bf741c92bdd6051531c950f91ffd1497"
+        },
+        {
             "name": "MemFix - Copy.cs",
             "hash": "85fc11128f8e3f4fe4846750d71075f9"
         },
@@ -169,12 +197,24 @@
             "hash": "894d6b3c087837a39d7fd7c45e65cf85"
         },
         {
+            "name": "memory2048.cs",
+            "hash": "4cdbca9abaca0d8bdd771291f77e661c"
+        },
+        {
             "name": "memory512.cs",
             "hash": "612c5c3f15c85b7b3f39e91e2d77c90e"
         },
         {
+            "name": "MemoryBoost.cs",
+            "hash": "56bbe18f0a57a15f6bf7ea2df97ea926"
+        },
+        {
             "name": "Memory_8GB.cs",
             "hash": "6a55fd150b2045b34822cdc376cabc48"
+        },
+        {
+            "name": "memory_full.cs",
+            "hash": "4da7d14fd9b81bfdcf63dd0fea989dbe"
         },
         {
             "name": "NoFuel.cs",
@@ -183,6 +223,10 @@
         {
             "name": "noisefix.cs",
             "hash": "60bb9e782f18a0e812b7f0d6cec3949a"
+        },
+        {
+            "name": "noradio - Copy.cs",
+            "hash": "5b272c82c86259649fb639f5afb19b84"
         },
         {
             "name": "noradio.cs",
@@ -255,6 +299,10 @@
         {
             "name": "Sun.cs",
             "hash": "d01bc16d517e6ba1e24269d29654e203"
+        },
+        {
+            "name": "sw.cs",
+            "hash": "3a29e0741891fce031151f1652a2ea74"
         },
         {
             "name": "UltraFastConnect.cs",
