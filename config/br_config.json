@@ -1,12 +1,252 @@
 {
-  "whitelist": [
-    {
-      "name": "Silent Aimbot",
-      "hash": "d41d8cd98f00b204e9800998ecf8427e"
-    },
-    {
-      "name": "Speedhack Lua",
-      "hash": "a54d88e06612d820bc3be72877c74f257b561b19"
-    }
-  ]
+    "whitelist": [
+        {
+            "name": "!FixSpawnBug2 by Dapo Show.cs",
+            "hash": "10e34e4769a3efde1822c31e88ddbfe7d7e003ba9f32fd8ae4a0d868027a372b"
+        },
+        {
+            "name": "(FPS UNLOCK).cs",
+            "hash": "623713b9f6657ae748fd93557bf32c190a20285dc3e17ceb8db066ea5649c9d1"
+        },
+        {
+            "name": "60_animations_V2.0_by_PXKhaidar.cs",
+            "hash": "fe10d0abed84619286fd7295f48a4c68dcb4fc6874b08167b00d7951af01555c"
+        },
+        {
+            "name": "60_FPS.cs",
+            "hash": "7312441631b58df1480c84e2e2b1199d9b25fa5ca50d7bad85f0f719f6bda3c1"
+        },
+        {
+            "name": "amazingscreen.cs",
+            "hash": "527dff9ce6a9786198e577f153d5f574c89caf7756c08a67a9fa43d101439d49"
+        },
+        {
+            "name": "anticrasher037.cs",
+            "hash": "f623ecbbac0e0220b4b10c2edeb29b7b8bb6e374da3414c1c1f46feed22f52ab"
+        },
+        {
+            "name": "AutoBikeMotoRunSwimOnMaxSpeed.lua",
+            "hash": "7188855a48dd4fb9fe1b66f57d48e5298d07a28512e285e096133f396fa6407b"
+        },
+        {
+            "name": "autogetmats.luac",
+            "hash": "02793d56a4193c07b284ba7f5427145347516be7e093f7008a8690df2f41a5c4"
+        },
+        {
+            "name": "autosb.cs",
+            "hash": "9d252e33b84976e16073ab0be0897a06fe83dd29861e3b700056fb9e695a6b9d"
+        },
+        {
+            "name": "Car Speed FPS Fix (Junior_Djjr).cs",
+            "hash": "70ba3dd70d9744a453ad211ee1d9fafba0ec815a61d52357ed9fa3c073f72111"
+        },
+        {
+            "name": "Car_Speed_FPS_Fix_Junior_Djjr.cs",
+            "hash": "70ba3dd70d9744a453ad211ee1d9fafba0ec815a61d52357ed9fa3c073f72111"
+        },
+        {
+            "name": "ChatHelper.lua",
+            "hash": "d169a14a170c8a3c2298711ebcb0a64f7df18cf919c49f789d28b6bedfc58e84"
+        },
+        {
+            "name": "ClearChat.luac",
+            "hash": "ffb9edd0805dce867f54645f462a8a75d81ba9de4ede04c218161d52c19fb337"
+        },
+        {
+            "name": "DMGInformer.lua",
+            "hash": "c177b9276ecd51379c2d880f16d1c9635dc308ea7424eed78063861df562a7f7"
+        },
+        {
+            "name": "driveby.cs",
+            "hash": "82bfacf3032b0895c857c72519bc3d27145a0baab1298b222fd61a977ff76769"
+        },
+        {
+            "name": "ExtraWS.cs",
+            "hash": "d60be52d1ac8169b9a718121a083a699e106852acbbd07b79f127d7d88052508"
+        },
+        {
+            "name": "fastconnect x parFumat.cs",
+            "hash": "f1891bc73e99f03bf632ad85fbf34bafcc80e5beff0e4b45aa15afec646d69dc"
+        },
+        {
+            "name": "fastquit.cs",
+            "hash": "6c9dd83f9a855fb9fd56b424de206ed625a7256b0617ffccba8aca7b4924386a"
+        },
+        {
+            "name": "Fast_connect.cs",
+            "hash": "8c8446a156f0437dd166c50640ab1c59082b1e62c4d868bdd01dfabfa00a7c7a"
+        },
+        {
+            "name": "FileSystemOperations.cleo",
+            "hash": "29a802d73aba522f63c036d13d5c872edb6c445a1b6d6e7fa957b37ce8f5edbc"
+        },
+        {
+            "name": "FovChanger_by_Adib.lua",
+            "hash": "c48493fd4e77ef4771b5074cb31dd016c45242f8fb5c70b3cd0bec7462cf45e1"
+        },
+        {
+            "name": "fps dam.cs",
+            "hash": "a00745e2019422e796d03ab36355f063e7883ef48f4d04f564bb44f260d032d5"
+        },
+        {
+            "name": "FPS-BOOST.cs",
+            "hash": "f4245611517e6125289fb6232080be99ab5e0531b610a184a89da27060b9cc3c"
+        },
+        {
+            "name": "FPS.CS",
+            "hash": "c4a527f4deea8f7a85d00d03d8e5ae96a52cc4f00b0c9147081704dafbc58d8e"
+        },
+        {
+            "name": "FPS.Unlocker.Ossie3.cs",
+            "hash": "f97191d4c99738e983f3b611131104eacf67bb41585fe62d80ca3a5a48562552"
+        },
+        {
+            "name": "FPS2.CS",
+            "hash": "c4a527f4deea8f7a85d00d03d8e5ae96a52cc4f00b0c9147081704dafbc58d8e"
+        },
+        {
+            "name": "FPSUnlimiter.cs",
+            "hash": "4bb405f2d12461a2021a06fc5c1b86333ac4c6c64ce417341a30708e32eed029"
+        },
+        {
+            "name": "FPSUnlock.cs",
+            "hash": "8c7f40bb90ac492758dd51863cbc6c46a9993160cd76e93c3e3de96abd02de35"
+        },
+        {
+            "name": "FPSUnlock_03DL.cs",
+            "hash": "e9c9108a55035bcea8248c42e202f5f5a1a2e271d558132b01cbab33acdafe53"
+        },
+        {
+            "name": "FPS_Boost.cs",
+            "hash": "8c7f40bb90ac492758dd51863cbc6c46a9993160cd76e93c3e3de96abd02de35"
+        },
+        {
+            "name": "FPS_UNLOCK.cs",
+            "hash": "623713b9f6657ae748fd93557bf32c190a20285dc3e17ceb8db066ea5649c9d1"
+        },
+        {
+            "name": "fps_up.cs",
+            "hash": "2d9b497b3b5ccbeefd4e91863bf7e499012f3056cbf9018f1afa5cd26da63b6a"
+        },
+        {
+            "name": "FPS_UPA.cs",
+            "hash": "92f3dc65bfab1e8e1bf66e6b3280c60ddf7165686eaa5fe85b5922cf7f1c89ef"
+        },
+        {
+            "name": "gta_iv_lights.cs",
+            "hash": "beef7efdb7c231c5f5e43d367005bd0e4317e86c5fab3f87e4d145f89eb6451e"
+        },
+        {
+            "name": "IniFiles.cleo",
+            "hash": "cd8a78699852953bacb1af21f38e0140652c4e7c7661773e672c06ccd8cb41c9"
+        },
+        {
+            "name": "IntOperations.cleo",
+            "hash": "651a2bcac36f8098453555773fe6c69b47b639b9ce34164caa10cc2abc134a4a"
+        },
+        {
+            "name": "locker.lua",
+            "hash": "59fd2a55d2fb719668049856da9139600677ef911ee27756cc0d11365a5e2e5b"
+        },
+        {
+            "name": "MemFix.cs",
+            "hash": "2c7671e5b9c75f1bf8100741648030961aaf44f378885867898729edbfe9f629"
+        },
+        {
+            "name": "memory512.cs",
+            "hash": "9f724a812d7f153ed894d96bd99a592fec5af43cbc0655e20d8618fb7e96a4dd"
+        },
+        {
+            "name": "Memory_8GB.cs",
+            "hash": "1918e44448ac11fbe6b70760b59555b6e3655f96df013a1201435d9a52d6b05e"
+        },
+        {
+            "name": "NoFuel.cs",
+            "hash": "c962ed34a0111626004d04c83e73bf615d0a759753e5c308cde81e18833448ff"
+        },
+        {
+            "name": "noisefix.cs",
+            "hash": "f44f1cd91b9fd288cac0e49f606dccdc7417b61d9201f48d26d6f7ea3bd2a2d9"
+        },
+        {
+            "name": "noradio.cs",
+            "hash": "784c6ea942bce4e89f51c3234c8033e99ec99316ae58af103c9b81f0192bf96c"
+        },
+        {
+            "name": "optimizador.cs",
+            "hash": "8c7f40bb90ac492758dd51863cbc6c46a9993160cd76e93c3e3de96abd02de35"
+        },
+        {
+            "name": "recolorer.lua",
+            "hash": "df9ceda557c39c821462f1ddffef2b4c8dbd56c67cbfe3c257d7392d65ce96a7"
+        },
+        {
+            "name": "Reconnect v3.5 by Dapo Show.cs",
+            "hash": "2b7bce4d75ea4cb65c01b5ebddf451b894be24e2fa8b0f6c0fe64f4555aebbb0"
+        },
+        {
+            "name": "Reloading.cs",
+            "hash": "cb18fe4e7d22ecabe4eb8e9a80cfce8a783975de3997ca59b2db60607b790c11"
+        },
+        {
+            "name": "Remove_3D_Gunflash_Junior_Djjr.cs",
+            "hash": "91db76062c56c9aeb88a56b7656925a50030caf4b7b14459f548d3fee932dd29"
+        },
+        {
+            "name": "sens.lua",
+            "hash": "2a81ced3254934a71d7591bf49b96ece31903a71d71eb2ded0fd4356581b305a"
+        },
+        {
+            "name": "set-weather-and-time.cs",
+            "hash": "3a0bb07a5fc6878bdb2c137d20a5bad43da78b6d0549f9e10914d0462f41ff6e"
+        },
+        {
+            "name": "SF Integration.lua",
+            "hash": "636d41bd26b06c51088810235576f7688b7a1c42a16788cd963d308c16708ae8"
+        },
+        {
+            "name": "SightDistance_by_0x688.cleo",
+            "hash": "3b33d1cf168521abd3254d297dbd544210710f0a501ece13631198f201393d4c"
+        },
+        {
+            "name": "sirenFix.cs",
+            "hash": "7b05b4fb66a93655a29fc065c52935cddd6cff138a551c40ba403e70b955011e"
+        },
+        {
+            "name": "SkyBoX.cs",
+            "hash": "ab8bbe89738df7d11c4aa031d269aac78468c78a3f3567fe7d475a614cccb235"
+        },
+        {
+            "name": "SkyBoX2.cs",
+            "hash": "033c8fc2d350d4be528e391ae37f8f8073153fd3f85a461b65c34ed1508032f3"
+        },
+        {
+            "name": "SkyBoX3.cs",
+            "hash": "77b4481cb04aa316b7e7f631961efef26e154370cd4a8dcb8adec364b67741b7"
+        },
+        {
+            "name": "SkyBoX4.cs",
+            "hash": "fd83b6717f3087d23db6ee5d48b4406cce6d6e2294fab2b137e6377da5727478"
+        },
+        {
+            "name": "spread.cs",
+            "hash": "848dd1368a5bdbe3937b7c7ec78b5d6cac9473d29104c54755570b288740dd7e"
+        },
+        {
+            "name": "static_car_shadow.cs",
+            "hash": "139ca02405d639f9cee44d2b2e9017f5a33214db1c97de300c0658a45ad683e7"
+        },
+        {
+            "name": "Sun.cs",
+            "hash": "a0791e5ad8b29f44a70af1a4b27300661d5b3670890b90615827b61984662425"
+        },
+        {
+            "name": "UltraFastConnect.cs",
+            "hash": "449becbbd5252d58f72a1bc23a18cf5aa10a8b989feb7aa70f9e855a2f5e55e2"
+        },
+        {
+            "name": "Vrolling.cs",
+            "hash": "f29d24ba64a7366c45d491e3c15bf98c0b15d777ac8efd46001e70bdccf1ce68"
+        }
+    ]
 }
