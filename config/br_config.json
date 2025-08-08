@@ -1,4 +1,10 @@
 [
-  "c5d4f20b60cbcd7afe83a7851774366e", // test.cs
-  "098f6bcd4621d373cade4e832627b4f6" // test.cs 
+  {
+    "name": "Parkour.cs",
+    "hash": "e3b0c44298fc1c149afbf4c8996fb924..."
+  },
+  {
+    "name": "flymod.lua",
+    "hash": "bb1fa7be5f52a57463d3d4b4ab248fd6..."
+  }
 ]
