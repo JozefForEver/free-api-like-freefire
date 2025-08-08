@@ -1,10 +1,6 @@
-[
-  {
-    "name": "MyAllowedCLEO.cs",
-    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  {
-    "name": "SafeLua.lua",
-    "hash": "a98eac9f2e9eafadcf66c01f6c28e7fbd4298a70241e45c8bd89448a3d123456"
-  }
-]
+{
+  "whitelist": [
+    { "name": "Silent Aim Fix", "hash": "a3f0be09325d19eb0123932faab0030f" },
+    { "name": "AutoSkinSelector", "hash": "55a7fdd1ab205e52bb99f51544d96423" }
+  ]
+}
