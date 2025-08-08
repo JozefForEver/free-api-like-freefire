@@ -21,6 +21,10 @@
             "hash": "776aec395aca7d240e2046f6a87ebdae"
         },
         {
+            "name": "Anti-lag.cs",
+            "hash": "80fc65ee9b8df84083538ca2fcb521bb"
+        },
+        {
             "name": "anticrasher037.cs",
             "hash": "b1f05747f3f2c601a348508c9a48cc89"
         },
@@ -49,12 +53,20 @@
             "hash": "798e370d2273130d2fd5313c98b3f64f"
         },
         {
+            "name": "CCleaner v3.5 by Dapo Show (1).cs",
+            "hash": "17c8fda3b970b13cc61c938f38e93a73"
+        },
+        {
             "name": "ChatHelper.lua",
             "hash": "f5448532fe4daa518e9e20cbc002c70c"
         },
         {
             "name": "ClearChat.luac",
             "hash": "d2fe3e30949b961744c6210cac625fed"
+        },
+        {
+            "name": "DistFogEdit by Dapo Show.cs",
+            "hash": "eae79a53f0249acd4fcbfbb498083552"
         },
         {
             "name": "DMGInformer.lua",
@@ -85,6 +97,10 @@
             "hash": "b85965012476cb89533a6f047a05c98c"
         },
         {
+            "name": "Fast_Q (1).cs",
+            "hash": "c5d4f20b60cbcd7afe83a7851774366e"
+        },
+        {
             "name": "FileSystemOperations - Copy.cleo",
             "hash": "c86a7795ec275f5841ed7bfd4057a212"
         },
@@ -95,6 +111,18 @@
         {
             "name": "Fix Water Square (Junior_Djjr).cs",
             "hash": "1d7758dcb1998c218b7c840f287af9cb"
+        },
+        {
+            "name": "FixDIST_by_SR_team.cs",
+            "hash": "c1bb8788fec9388cf5b524b1aa2c6431"
+        },
+        {
+            "name": "fogdist.cs",
+            "hash": "c4272d8c1d9bf75f6e0bed775ee26668"
+        },
+        {
+            "name": "fov.lua",
+            "hash": "4ceef1a09de287eee586ef52a05d92bf"
         },
         {
             "name": "FovChanger_by_Adib.lua",
@@ -149,6 +177,10 @@
             "hash": "a8261fc431dffd065ba5a98779e27423"
         },
         {
+            "name": "GameFixer.lua",
+            "hash": "443931760cec87594affed535ff8277e"
+        },
+        {
             "name": "gta_iv_lights.cs",
             "hash": "99fb7c1e1bfe8b3bcc07172599710af1"
         },
@@ -159,6 +191,10 @@
         {
             "name": "hitmarker.cs",
             "hash": "f16afb71fa81ea302a6323d3f4c74fab"
+        },
+        {
+            "name": "hud.lua",
+            "hash": "7605cb97e64c57e00a2e4c38fbb949a7"
         },
         {
             "name": "hudfix.cs",
@@ -245,6 +281,10 @@
             "hash": "c4b08853883e724e5a9520aec83f611d"
         },
         {
+            "name": "Reconnect.cs",
+            "hash": "ccd6362626178e2a7bf9860808beb225"
+        },
+        {
             "name": "Reloading.cs",
             "hash": "eff44b9f9fb02bdefcdcf3a5d56eacf6"
         },
@@ -257,8 +297,16 @@
             "hash": "1aed58b818608093927d176b98f3040e"
         },
         {
+            "name": "SensitivityFix.cs",
+            "hash": "ae2a7cfaeee78ed7aadb9b4fa022c409"
+        },
+        {
             "name": "set-weather-and-time.cs",
             "hash": "2c19ecebbde743fe9caf3b4e7f74b551"
+        },
+        {
+            "name": "SF Integration - Copy.lua",
+            "hash": "f2567ac17cb2b7521a97a3c4905926d4"
         },
         {
             "name": "SF Integration.lua",
