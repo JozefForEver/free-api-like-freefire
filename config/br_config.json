@@ -77,6 +77,10 @@
             "hash": "b85965012476cb89533a6f047a05c98c"
         },
         {
+            "name": "FileSystemOperations - Copy.cleo",
+            "hash": "c86a7795ec275f5841ed7bfd4057a212"
+        },
+        {
             "name": "FileSystemOperations.cleo",
             "hash": "ec7fc1b2d143ce3de49ee800aeb9d2d5"
         },
@@ -137,8 +141,16 @@
             "hash": "99fb7c1e1bfe8b3bcc07172599710af1"
         },
         {
+            "name": "IniFiles - Copy.cleo",
+            "hash": "e4d4699f22ff9dbb3f1174d4a5aa506f"
+        },
+        {
             "name": "IniFiles.cleo",
             "hash": "a7fc5491f5436a81b04d6fe55ad7e07d"
+        },
+        {
+            "name": "IntOperations - Copy.cleo",
+            "hash": "9f1ab1a5b52ab5a5cfb1a132e28da720"
         },
         {
             "name": "IntOperations.cleo",
@@ -147,6 +159,10 @@
         {
             "name": "locker.lua",
             "hash": "5f4097464a16f228db110cd5463bfd46"
+        },
+        {
+            "name": "MemFix - Copy.cs",
+            "hash": "894d6b3c087837a39d7fd7c45e65cf85"
         },
         {
             "name": "MemFix.cs",
