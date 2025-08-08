@@ -1,6 +1,4 @@
-{
-  "blacklist": [
-    {"hash": "c5d4f20b60cbcd7afe83a7851774366e", "file": "SilentAim.cs"},
-    {"hash": "098f6bcd4621d373cade4e832627b4f6", "file": "Teleport.lua"}
-  ]
-}
+[
+  "c5d4f20b60cbcd7afe83a7851774366e", // test.cs
+  "098f6bcd4621d373cade4e832627b4f6" // test.cs 
+]
