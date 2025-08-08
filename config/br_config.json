@@ -1,6 +1,12 @@
 {
   "whitelist": [
-    { "name": "Silent Aim Fix", "hash": "a3f0be09325d19eb0123932faab0030f" },
-    { "name": "AutoSkinSelector", "hash": "55a7fdd1ab205e52bb99f51544d96423" }
+    {
+      "name": "Silent Aimbot",
+      "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    {
+      "name": "Speedhack Lua",
+      "hash": "a54d88e06612d820bc3be72877c74f257b561b19"
+    }
   ]
 }
