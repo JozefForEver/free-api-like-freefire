@@ -1,10 +1,10 @@
 [
   {
-    "name": "Parkour.cs",
-    "hash": "e3b0c44298fc1c149afbf4c8996fb924..."
+    "name": "MyAllowedCLEO.cs",
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   {
-    "name": "flymod.lua",
-    "hash": "bb1fa7be5f52a57463d3d4b4ab248fd6..."
+    "name": "SafeLua.lua",
+    "hash": "a98eac9f2e9eafadcf66c01f6c28e7fbd4298a70241e45c8bd89448a3d123456"
   }
 ]
